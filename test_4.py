@@ -137,3 +137,5 @@ car_url = 'https://www.renrenche.com/bj/ershouche/57704716940705x.shtml?&tid=ff5
 
 # scrapy_car_details_from_txt('car_2.txt')
 scrapy_car_lists('car_lists.txt')
+
+# print()
